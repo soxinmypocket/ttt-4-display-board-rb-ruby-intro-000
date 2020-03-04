@@ -10,3 +10,13 @@ def display_board(board)
 end
 
 display_board(board)
+
+def display_board(board)
+  puts "   |   |   "
+  puts "-----------"
+  puts "   | X |   "
+  puts "-----------"
+  puts "   |   |   "
+end
+
+display_board(board)
